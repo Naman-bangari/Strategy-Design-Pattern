@@ -26,7 +26,6 @@ class Main {
         else
             walkable = new Notwalk();
 
-        
         System.out.println("\nplease select number \n 1 Talk \n 2 No Talk\n");
         Integer talk = sc.nextInt();
         Talkable talkable;
