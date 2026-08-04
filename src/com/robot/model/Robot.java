@@ -5,6 +5,7 @@ import com.robot.strategy.talk.Talkable;
 import com.robot.strategy.walk.Walkable;
 
 public class Robot {
+    
     private Walkable walkable;
     private Talkable talkable;
     private Flyable flyable;
